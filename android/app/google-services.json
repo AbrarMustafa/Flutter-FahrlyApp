@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678958353508",
+    "project_id": "fahrly",
+    "storage_bucket": "fahrly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678958353508:android:dd3afb616ce9a6b356a371",
+        "android_client_info": {
+          "package_name": "de.Fahrly.fahrer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678958353508-sou1pep1h0aml9u17rkj38cnd7arpedl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8cHtT6WF1bpQv1oxXOz3aBI-xfJTI6Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678958353508-sou1pep1h0aml9u17rkj38cnd7arpedl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
